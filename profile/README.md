@@ -9,7 +9,6 @@
 </picture>
 </div>
 
-
 <div id="section--links" align="center">
 <ul id="section--links-list">
 <li id="section--links-list-item">
