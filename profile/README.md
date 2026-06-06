@@ -7,6 +7,7 @@
     width="100%"
 />
 </picture>
+<hr />
 </div>
 
 <div id="section--links" align="center">
