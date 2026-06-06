@@ -1,3 +1,24 @@
-![IT Security Header](https://github.com/user-attachments/assets/62e37d9c-74db-4ead-a9e9-7b223b553b9e)
+<div id="section--header" align="center">
+<picture id="section--header-banner">
+<img
+    id="section--header-banner-image"
+    src="https://rscsapi.cadenf.com/assets/images/branding/github-organization-public-readme-banner-v1.0.0.svg"
+    alt="Animated Banner"
+    width="100%"
+/>
+</picture>
+</div>
 
-# IT Security - West Mec Southwest Campus
+
+<div id="section--links" align="center">
+<ul id="section--links-list">
+<li id="section--links-list-item">
+<a
+    id="section--links-list-item-link"
+    href="https://www.west-mec.edu/high-school-students/west-mec-high-school-programs/it-security"
+    alt="West-MEC IT Security Program Webpage"
+    >West-MEC IT Security Program Webpage
+</a>
+</li>
+</ul>
+</div>
